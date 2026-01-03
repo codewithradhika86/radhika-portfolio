@@ -40,5 +40,4 @@ To become a **Data Scientist / Data Analyst** and contribute to open-source and 
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/codewithradhika86
-- LinkedIn: (add your LinkedIn link here)# radhika-portfolio
-My Data Science &amp; Python Portfolio
+- LinkedIn: (https://www.linkedin.com/in/radhika-batwara-b514b725a)
