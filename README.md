@@ -6,12 +6,12 @@ I am a B.Sc student with strong interest in **Data Science, Python, and Data Ana
 ---
 
 ## 🚀 Skills
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Data Visualization
-- Basic Statistics
+### 🛠 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
