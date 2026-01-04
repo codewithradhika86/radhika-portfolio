@@ -14,6 +14,12 @@ I am a B.Sc student with strong interest in **Data Science, Python, and Data Ana
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  
+  ### 🤖 AI & Machine Learning
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Data Science](https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
 </p>
 
 
