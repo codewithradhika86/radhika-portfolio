@@ -51,3 +51,4 @@ To become a **Data Scientist / Data Analyst** and contribute to open-source and 
 ## 📫 Connect with Me
 - GitHub: https://github.com/codewithradhika86
 - LinkedIn: (https://www.linkedin.com/in/radhika-batwara-b514b725a)
+- Portfolio://https://gamma.app/docs/Radhika-Batwara-s2h9qa97dnjdurj?mode=doc
